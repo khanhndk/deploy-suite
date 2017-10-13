@@ -1,2 +1,2 @@
-# deploy_server
-Deploy server for running experiments
+# Deploy Suite
+A suite for deployment in running experiments
